@@ -1,7 +1,7 @@
 @import "mixins"
 @import "variables"
-@import "bourbon"
-@import "neat"
+@import "bourbon/bourbon"
+@import "neat/neat"
 
 @import "normalize"
 @import "fonts"
@@ -221,6 +221,11 @@ footer
 			padding: 0
 			&.label
 				font-weight: 700
+			a
+				display: inline-block
+				margin: 2em 1em 0 1em
+				color: white
+				// text-decoration: none
 
 #footer-logo
 	background-color: darken($accent, 3%)
