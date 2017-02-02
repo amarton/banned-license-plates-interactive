@@ -106,7 +106,7 @@ var app = app || {
 
 	},
 	
-	all_plates: ["ADAM"],
+	all_plates: ["C0CA1N3", "W1NO", "TOKE", "SLEEZY", "SAFESEX", "MRDOPE", "ISIS", "ACDC", "ALLAH", "ARYAN", "BAILME", "BEDWETR", "BLOOD", "CHUMP", "CIA", "CIA2U", "COCAINE", "COP", "CRIME", "DAAAMN", "DEALER", "DEPUTY", "DOWNLO", "DRUGS", "DUMMY", "EMS", "EXCON", "FBI", "FBICAR", "FEDCOP", "FIT", "FLAKE", "GOON", "GOVT", "HELL", "HEROIN", "IRS", "KILLBIL", "KILLER", "LIBIDO", "MAFIA", "MAYOR", "MURDER1", "NAACP", "OLDFART", "POL1C3", "RATATAT", "REEFER", "RIPOFF", "SCUM", "SENATE", "SEX", "STATE", "STONED", "STUD", "TASTY", "TAXI", "TEMP", "TOILET", "USGOVT", "USMAIL", "1812", "1DIOT"],
 	all_characters: ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','1','2','3','4','5','6','7','8','9','0'],
 
 	share_page: function(){
