@@ -1,0 +1,246 @@
+@import "mixins"
+@import "variables"
+@import "bourbon"
+@import "neat"
+
+@import "normalize"
+@import "fonts"
+
+
+
+/* General Styles */
+
+body
+	font-family: "Lato", sans-serif
+	font-weight: 300
+
+.container
+	width: 1000px
+	margin: 20px auto
+	@media (max-width: $bp-1)
+		width: auto
+		padding: 0 10px
+
+.lp-header
+	text-align: center
+	width: 600px
+	margin: 0 auto
+	@media (max-width: 620px)
+		width: auto
+	&__title-1
+		font-size: 30px
+		@media (max-width: $bp-2)
+			font-size: 16px
+	&__title-2
+		font:
+			family: $license
+			weight: normal
+			size: 90px
+		margin: 20px 0 30px 0
+		@media (max-width: $bp-2)
+			font-size: 70px
+		img
+			vertical-align: middle
+			width: 30px
+			margin: 0 10px
+			@media (max-width: $bp-2)
+				display: block
+				margin: 10px auto
+	&__chatter
+		width: 500px
+		margin: 0 auto
+		line-height: 1.5
+		@media (max-width: 520px)
+			width: auto
+			text-align: left
+			padding-top: 20px
+			border-top: 1px solid #E0E0E0
+
+.lp-plate
+	position: relative
+	width: 800px
+	margin: 60px auto 30px auto
+	@media (max-width: $bp-1)
+		width: 600px
+	@media (max-width: $bp-2)
+		width: 300px
+		margin: 30px auto
+	&__image
+		user-select: none
+		img
+			width: 100%
+	&__content
+		position: absolute
+		top: 150px
+		left: 0
+		width: 100%
+		font-size: 150px
+		font-family: $license
+		text-align: center
+		// -webkit-text-stroke: 2px white
+		// text-shadow: 0 0 5px black
+		@media (max-width: $bp-1)
+			top: 100px
+			font-size: 130px
+		@media (max-width: $bp-2)
+			top: 55px
+			font-size: 60px
+	&__arrows
+		user-select: none
+		@media (max-width: $bp-tablet)
+			text-align: center
+			margin-top: 20px
+	&__arrow
+		position: absolute
+		top: 50%
+		transform: translateY(-50%)
+		font-size: 60px
+		color: $accent
+		cursor: pointer
+		&:hover
+			@media (min-width: 1025px)
+				color: darken($accent, 10%)
+		&--left
+			right: 100%
+			margin-right: 10px
+		&--right
+			left: 100%
+			margin-left: 10px
+		@media (max-width: $bp-tablet)
+			position: static
+			display: inline-block
+			transform: none
+			margin: 0
+			background-color: $accent
+			color: white
+			font-size: 50px
+	&__letters
+		display: inline-block
+		+clearfix
+	&__letter
+		float: left
+		width: 85px
+		opacity: 1
+		visibility: visible
+		transition: all 0.4s
+		overflow: hidden
+		transform: scale(1)
+		&.is-hidden
+			opacity: 1
+			width: 0
+			transform: scale(0)
+			visibility: hidden
+		@media (max-width: $bp-1)			
+			width: 70px
+		@media (max-width: $bp-2)			
+			width: 35px
+
+
+.lp-social-tools
+	text-align: center
+	&__label
+		margin-bottom: 10px
+		font-weight: 400
+		color: #666
+
+.lp-social-tool
+	display: inline-block
+	padding: 10px 20px
+	color: white
+	font-weight: 400
+	cursor: pointer
+	span
+		color: rgba(255,255,255,0.3)
+		font-size: 22px
+		vertical-align: middle
+		margin-right: 5px
+		position: relative
+		bottom: 2px
+	&--facebook	
+		background-color: $facebook
+	&--twitter
+		background-color: $twitter
+
+
+
+
+
+/* Tophat */
+
+#tophat
+	height: 40px
+	background-color: $tophat-bg
+	overflow: hidden
+
+#logo
+	width: 250px
+	height: 100%
+	float: left
+	line-height: 43px
+	vertical-align: middle
+	img
+		margin: 0 10px
+		width: 90%
+	@media (max-width: 400px)
+		width: 200px
+
+.tophat-share-tools
+	float: right
+	height: 100%
+	line-height: 35px
+	font-size: 24px
+	vertical-align: middle
+	color: $tophat-social
+	margin: 0 10px
+	text-align: center
+	span
+		cursor: pointer
+		vertical-align: middle
+		margin-right: 8px
+		&:hover
+			color: $tophat-social--hover
+	@media (max-width: 760px)
+		font-size: 18px
+		line-height: 40px
+
+
+/* Footer */
+
+footer
+	background-color: darken($accent, 10%)
+	margin: 0
+	padding: 50px 0 0 0
+	color: white
+	text-align: center
+	ul
+		list-style: none
+		margin: 0 0 30px 0
+		padding: 0
+		li
+			margin: 0 0 10px 0
+			padding: 0
+			&.label
+				font-weight: 700
+
+#footer-logo
+	background-color: darken($accent, 3%)
+	padding: 20px 0
+	margin-top: 50px
+	img
+		width: 300px
+		@media (max-width: 400px)
+			width: 200px
+
+
+
+
+
+/* Leaderboard */
+
+#leaderboard
+	+size(728px 90px)
+	background-color: #222222
+	margin: 100px auto 30px auto
+	text-align: center
+	@media (max-width: 730px)
+		display: none

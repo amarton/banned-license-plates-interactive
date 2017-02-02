@@ -1,0 +1,15 @@
+
+=links($color, $textDecoration)
+	a:link, a:visited, a:hover, a:active
+		color: $color
+		text-decoration: $textDecoration
+
+
+=circle-w-centering($size, $border)
+	width: $size
+	height: $size
+	border-radius: ($size + $border)/2
+	line-height: ($size - ($border * 2))
+	text-align: center
+
+

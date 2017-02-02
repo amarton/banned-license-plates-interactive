@@ -1,0 +1,1322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"all_plates"
+			],
+			[
+				"fade",
+				"fade-in-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"mobile-bp",
+				"intro-mobile-bp"
+			],
+			[
+				"backro",
+				"background-color"
+			],
+			[
+				"ti",
+				"titillium"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"barbel",
+				"barbell-extras"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"circ",
+				"circuit_dropdown"
+			],
+			[
+				"cir",
+				"circuit_click"
+			],
+			[
+				"gr",
+				"green-1"
+			],
+			[
+				"togg",
+				"toggle_list_item"
+			],
+			[
+				"exhi",
+				"exhibits"
+			],
+			[
+				"exhibit",
+				"exhibit_data"
+			],
+			[
+				"close",
+				"off_canvas_close"
+			],
+			[
+				"off_",
+				"off_canvas_close"
+			],
+			[
+				"off_can",
+				"off_canvas_open"
+			],
+			[
+				"tran",
+				"translateX"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"slide",
+				"slide_positions"
+			],
+			[
+				"fix",
+				"fixed_slides"
+			],
+			[
+				"mobile",
+				"mobile-nav-toggle"
+			],
+			[
+				"week",
+				"week_positions"
+			],
+			[
+				"He",
+				"Heinz"
+			],
+			[
+				"lat",
+				"lato-light"
+			],
+			[
+				"gold",
+				"goldenrod"
+			],
+			[
+				"sho",
+				"show_slide"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"current",
+				"current_slide"
+			],
+			[
+				"screen",
+				"screenshot_limit"
+			],
+			[
+				"slider",
+				"slider_indicators"
+			],
+			[
+				"sli",
+				"screenshot_slide"
+			],
+			[
+				"food-tru",
+				"food-truck-finder"
+			],
+			[
+				"tige",
+				"tigers_wins"
+			],
+			[
+				"a",
+				"a3a3a3"
+			],
+			[
+				"mob",
+				"mobile_selected_slide"
+			],
+			[
+				"hide",
+				"hide_slider"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"popup-s",
+				"popup-slider-content"
+			],
+			[
+				"movem",
+				"movement"
+			],
+			[
+				"move",
+				"movement_unit"
+			],
+			[
+				"pop",
+				"populate_case_info"
+			],
+			[
+				"place",
+				"place_recommendations_x"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"favo",
+				"favorite_profile"
+			],
+			[
+				"circl",
+				"circle_app"
+			],
+			[
+				"thumb",
+				"thumb_end"
+			],
+			[
+				"thum",
+				"thumb_start"
+			],
+			[
+				"highli",
+				"highlight_group"
+			],
+			[
+				"filter",
+				"filter_card"
+			],
+			[
+				"mobile-",
+				"mobile-nav-drop"
+			],
+			[
+				"top",
+				"top-bar-star"
+			],
+			[
+				"faceo",
+				"facebook_url"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"quest",
+				"questionnaire-nav"
+			],
+			[
+				"cur",
+				"current_candidate"
+			],
+			[
+				"dem",
+				"dem_undecided"
+			],
+			[
+				"brwo",
+				"brown-finance"
+			],
+			[
+				"lol",
+				"lollar_finance"
+			],
+			[
+				"hoga",
+				"hogan_finance"
+			],
+			[
+				"geor",
+				"george_finance"
+			],
+			[
+				"crai",
+				"craig_finance"
+			],
+			[
+				"mize",
+				"mizeur_finance"
+			],
+			[
+				"set",
+				"set_finance_graph"
+			],
+			[
+				"reveal",
+				"reveal_point"
+			],
+			[
+				"toggle",
+				"toggle_fixed_nav"
+			],
+			[
+				"qiuz",
+				"quiz-title-preface"
+			],
+			[
+				"toglge",
+				"toggle_minimizer"
+			],
+			[
+				"rest",
+				"restaurant_site"
+			],
+			[
+				"link",
+				"link_name"
+			],
+			[
+				"helvetica",
+				"HelveticaNeue"
+			],
+			[
+				"tex-t",
+				"text-decoration"
+			],
+			[
+				"rest_",
+				"rest_latitude"
+			],
+			[
+				"footer",
+				"footer-content"
+			],
+			[
+				"item",
+				"item-container"
+			],
+			[
+				"recent-stories-cont",
+				"recent-stories-content-boundary"
+			],
+			[
+				"user",
+				"submit-user-rating"
+			],
+			[
+				"u",
+				"user-rating-container"
+			],
+			[
+				"individual-",
+				"individual-screenshot-container"
+			],
+			[
+				"indivudal",
+				"individual-summary-container"
+			],
+			[
+				"overview-copy",
+				"overview-copy-container"
+			],
+			[
+				"story",
+				"storybase-options"
+			],
+			[
+				"store",
+				"storybase-main-title-container"
+			],
+			[
+				"body",
+				"body-container"
+			],
+			[
+				"cover",
+				"cover-photo"
+			],
+			[
+				"artic",
+				"article-title"
+			],
+			[
+				"Merc",
+				"MercuryBold"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"supl",
+				"superlative-slide"
+			],
+			[
+				"more-",
+				"more-info-text"
+			],
+			[
+				"balt",
+				"baltimoresbest"
+			],
+			[
+				"en",
+				"entertainment"
+			],
+			[
+				"bar-",
+				"bar-loc-type"
+			],
+			[
+				"superl",
+				"superlatives-container"
+			],
+			[
+				"bar",
+				"bar-info-container"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"more",
+				"more-info-text"
+			],
+			[
+				"chosen",
+				"chosen_records"
+			],
+			[
+				"unc",
+				"unchosen_records2"
+			],
+			[
+				"bar_",
+				"bar_neighborhood"
+			],
+			[
+				"sort",
+				"sort_filter"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"pre",
+				"presentation_order"
+			],
+			[
+				"project",
+				"project-link"
+			],
+			[
+				"over",
+				"overview-rating-subsection-title"
+			],
+			[
+				"summa",
+				"summary_author_collapsed"
+			],
+			[
+				"horiz",
+				"horizontal_displacement"
+			],
+			[
+				"vertical",
+				"vertical_displacement"
+			],
+			[
+				"Helveti",
+				"Helvetica"
+			],
+			[
+				"Hel",
+				"HelveticaNeue-CondensedBold"
+			],
+			[
+				"change",
+				"change_text"
+			],
+			[
+				"m",
+				"movement_three"
+			],
+			[
+				"movement",
+				"movement_one"
+			],
+			[
+				"mobile-overview-",
+				"mobile-overview-lede2"
+			],
+			[
+				"hadlin",
+				"headline-small"
+			],
+			[
+				"headlin",
+				"headline-med"
+			],
+			[
+				"expand",
+				"expand-button-container"
+			],
+			[
+				"curr",
+				"currentPosition"
+			],
+			[
+				"overv",
+				"overview_photo_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.jade",
+			"settings":
+			{
+				"buffer_size": 2667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/sass/style.sass",
+			"settings":
+			{
+				"buffer_size": 3558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/sass/_variables.sass",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/javascript.js",
+			"settings":
+			{
+				"buffer_size": 3239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gregkohn/Documents/Sun/projects/license-plates"
+	],
+	"file_history":
+	[
+		"/Users/gregkohn/Documents/Sun/projects/license-plates/stylesheets/sass/_variables.sass",
+		"/Users/gregkohn/Documents/Sun/projects/license-plates/stylesheets/sass/_fonts.scss",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.variables.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_mixins.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_project.tophat.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.base.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.logo.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.tophat.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/projects/tracking-omalley.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/projects/freddie-45.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.footer.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.animations.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_project.info.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_project.intro.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/project.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/templates/project.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/projects/tracking-omalley.html",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.sass",
+		"/Users/gregkohn/Documents/Sun/projects/police-brutality/budget-numbers/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/projects/ravens-review.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/index.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/home.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/todo.txt",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_fonts.scss",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/projects/freddie-45.html",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/home.css",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/_general.nav.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/templates/base.jade",
+		"/Users/gregkohn/Library/Application Support/Sublime Text 3/Packages/User/Sass.sublime-settings",
+		"/Users/gregkohn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gregkohn/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/-project.intro.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/project-styles.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/home-styles.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/general-styles.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/normalize.css",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/base.css",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/mixins.sass",
+		"/Users/gregkohn/Documents/Sun/projects/ravens/road-to-playoffs/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/small-projects/fop-excerpts/stylesheets/sass/mixins.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/project.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/base.jade",
+		"/Users/gregkohn/Documents/Web Projects/greg-kohn/stylesheets/sass/variables.sass",
+		"/Users/gregkohn/Documents/Sun/projects/fitness-heroes/profiles/profile.html",
+		"/Users/gregkohn/Documents/Sun/templates/web-project-jade/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/templates/web-project-jade/index.jade",
+		"/Users/gregkohn/Documents/Sun/projects/fitness-heroes/stylesheets/ngux-reset.css",
+		"/Users/gregkohn/Documents/Sun/projects/fitness-heroes/stylesheets/style.css",
+		"/Users/gregkohn/Documents/Sun/projects/fitness-heroes/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/fitness-heroes/stylesheets/base.css",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/stylesheets/style.css",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/index.html",
+		"/Users/gregkohn/Documents/Web Projects/CNS/Mortgage Relief Graphic/style.css",
+		"/Users/gregkohn/Documents/Web Projects/CNS/Mortgage Relief Graphic/javascript.js",
+		"/Users/gregkohn/Library/Caches/TemporaryItems/HtY82dw.jpg",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/stylesheets/fonts.css",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/includes/omniture.html",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/includes/ad-for-header.html",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/includes/ad-for-body.html",
+		"/Users/gregkohn/Documents/Sun/projects/omalley/stylesheets/sass/mixins.sass",
+		"/Users/gregkohn/Documents/Sun/projects/omalley/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/projects/cop-watch/court-rulings/map.html",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/index.html",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/dish/barker/stylesheets/base.css",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 5/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/dish/barker/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/small-projects/amazon-zipcodes/script.js",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 3/index.html",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 2/javascript.js",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/javascript.js",
+		"/Users/gregkohn/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/style.css",
+		"/Users/gregkohn/Documents/Sun/projects/replacing-mikulski/css/style.css",
+		"/Users/gregkohn/Documents/Sun/projects/replacing-mikulski/untitled folder/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/index.jade",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/terps-season-guide.sublime-project",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/stylesheets/fonts.css",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/scripts/omniture.html",
+		"/Users/gregkohn/Documents/Sun/temporary/flu-data",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/gantt/scripts/block-data.js",
+		"/Users/gregkohn/Documents/Sun/templates/web-project-jade/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/terps/season-guide-2014-2015/config.codekit",
+		"/Users/gregkohn/Documents/Web Projects/mom/finding-history/index.html",
+		"/Users/gregkohn/Documents/Web Projects/mom/finding-history/scripts/component.json",
+		"/Users/gregkohn/Documents/Web Projects/mom/finding-history/stylesheets/sass/mixins.sass",
+		"/Users/gregkohn/Documents/Web Projects/mom/finding-history/stylesheets/style.css",
+		"/Users/gregkohn/Documents/Web Projects/mom/finding-history/stylesheets/fonts.css",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/paypal/style.css",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/paypal/script.js",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/scripts/omniture.html",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/scripts/ad-part-2.html",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/scripts/ad-part-1.html",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/projects/terps/tracking-the-terps/index.jade",
+		"/Users/gregkohn/Documents/Sun/projects/ravens/road-to-playoffs/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/projects/ravens/road-to-playoffs/index.html",
+		"/Users/gregkohn/Documents/Sun/templates/web-project/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/circles/stylesheets/style.css",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/gantt/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/gantt/scripts/block-data-generic.js",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/circles/scripts/tut-javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/circles/stylesheets/sass/tut-style.sass",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/circles/stylesheets/tut-style.css",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/circles/tutorial.html",
+		"/Users/gregkohn/Documents/Sun/projects/year-in-review-quotes/index.jade",
+		"/Users/gregkohn/Documents/Sun/projects/year-in-review-quotes/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/projects/year-in-review-quotes/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/ravens/road-to-playoffs/index.jade",
+		"/Users/gregkohn/Documents/Sun/projects/gift-guide/index.jade",
+		"/Users/gregkohn/Documents/Web Projects/abraham-murrell/portfolio/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/abraham-murrell/portfolio/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Web Projects/abraham-murrell/portfolio/animations.jade",
+		"/Users/gregkohn/Documents/Web Projects/abraham-murrell/portfolio/index.jade",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/case-tool/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/case-tool/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/case-tool/index.jade",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/gantt/index.html",
+		"/Users/gregkohn/Documents/Web Projects/career-peer/gantt/stylesheets/sass/style.sass",
+		"/Users/gregkohn/Documents/Sun/projects/year-in-review-quotes/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/year-in-review-quotes/stylesheets/fonts.css",
+		"/Users/gregkohn/Documents/Sun/projects/gift-guide/scripts/javascript.js",
+		"/Users/gregkohn/Documents/Sun/projects/gift-guide/index.html",
+		"/Users/gregkohn/Documents/Sun/projects/workers-comp-teachers/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"index.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Kohn",
+			" $bp-3",
+			"$bp-2",
+			"max-width: 1020px",
+			"(min-width: $bp-tablet) and ",
+			"counter",
+			".letter",
+			"app.i",
+			"		line-height: 1\n",
+			"licenseplate",
+			"license_plateregular",
+			"a(h",
+			".project-tn(",
+			".project-tn(data-sr)",
+			"scale(1)",
+			"scale(0.7)",
+			".project-tn__title",
+			"	border: 1px solid red\n",
+			"project-tn__tn",
+			"grid",
+			".project-__desc",
+			"grid__header",
+			"up",
+			"30",
+			"reset",
+			".skills__icon__ring(da",
+			".skills__icon(data",
+			"skills__icon__ring",
+			".skills__icon(data-",
+			"project-grid-header-date",
+			"project-grid-header ",
+			"project-grid-header",
+			"project-grid-tn",
+			"hidden",
+			"767px",
+			"30",
+			"400px",
+			"25px",
+			"gold",
+			"$gold",
+			"skills__icon__ring",
+			",",
+			"bright",
+			"skills__icon(data-sr",
+			"skills__icon",
+			".skills__skill",
+			"skills",
+			".intro",
+			"data-sr",
+			"white",
+			"0",
+			"400ms",
+			"200ms",
+			"data-sr",
+			"fade-in",
+			"move 5px, ",
+			"5px",
+			"px",
+			"5",
+			"10px",
+			"0px",
+			"0",
+			"name",
+			"wait",
+			"visible",
+			"darker",
+			"(data",
+			"wait",
+			"data-delay=\"",
+			".fade-in-up",
+			".fade-in",
+			"=\"enter bottom\")",
+			"enter bottom",
+			"data-sr=\"",
+			"(data-sr",
+			"bottom",
+			"move 200px",
+			"data-sr",
+			"opacity 1",
+			"enter bottom",
+			"scale up 20%",
+			"enter right",
+			"screenshot",
+			"k\n",
+			"move 50px",
+			", scale 0%",
+			".fa",
+			".fad",
+			"//",
+			"*\n",
+			"//",
+			"*",
+			"600px",
+			".",
+			"*",
+			"-",
+			"255",
+			"rgba",
+			"0",
+			"-1",
+			"x",
+			"X",
+			"opacity",
+			"transition",
+			"project-screenshot",
+			"fade",
+			"screenshot",
+			".project-info-block",
+			"light",
+			"block",
+			".project-info-block\n",
+			"project-info-block",
+			"$background",
+			"background",
+			"accent",
+			"freddie-45",
+			"intro-mobile",
+			"600px",
+			"project-info-bp",
+			"800px",
+			"button",
+			"screenshot-img",
+			"media",
+			"screenshots-bp",
+			"screenshot-img",
+			"border: 1px solid red",
+			"5",
+			"float"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&quot;",
+			"accent",
+			"Bellitti",
+			"",
+			"http://elections.baltimoresun.com",
+			"circ",
+			"Charles Lollar",
+			"Larry Hogan",
+			"Ron George",
+			"Heather R. Mizeur",
+			"Douglas F. Gansler",
+			" ",
+			"href=\"<?php bloginfo('template_directory'); ?>/",
+			"PW Water",
+			"Caught In",
+			"<img src=\"<?php bloginfo('template_directory'); ?>/images/",
+			"bar_array",
+			"\\'",
+			"Pubs and Taverns",
+			"*",
+			"**",
+			"'http://daveungrady.com/wp-content/themes/daveungradytheme/images/",
+			"'",
+			"&quot;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheets/sass/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stylesheets/sass/_variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/javascript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1243,
+								1243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "license-plates.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"variab",
+				"stylesheets/sass/_variables.sass"
+			],
+			[
+				"variables",
+				"stylesheets/sass/_variables.sass"
+			],
+			[
+				"fonts",
+				"stylesheets/sass/_fonts.scss"
+			],
+			[
+				"",
+				"stylesheets/sass/style.sass"
+			],
+			[
+				"vara",
+				"stylesheets/sass/_variables.sass"
+			],
+			[
+				"javas",
+				"scripts/javascript.js"
+			],
+			[
+				"style",
+				"stylesheets/sass/style.sass"
+			],
+			[
+				"mixin",
+				"stylesheets/sass/_mixins.sass"
+			],
+			[
+				"index",
+				"index.jade"
+			],
+			[
+				"base",
+				"templates/base.jade"
+			],
+			[
+				"footer",
+				"stylesheets/sass/_general.footer.sass"
+			],
+			[
+				"javasc",
+				"scripts/javascript.js"
+			],
+			[
+				"tophat",
+				"stylesheets/sass/_general.tophat.sass"
+			],
+			[
+				"loog",
+				"stylesheets/sass/_general.logo.sass"
+			],
+			[
+				"generalbase",
+				"stylesheets/sass/_general.base.sass"
+			],
+			[
+				"generaltophat",
+				"stylesheets/sass/_general.tophat.sass"
+			],
+			[
+				"projec",
+				"templates/project.jade"
+			],
+			[
+				"generalanimat",
+				"stylesheets/sass/_general.animations.sass"
+			],
+			[
+				"projectinfo",
+				"stylesheets/sass/_project.info.sass"
+			],
+			[
+				"projectintro",
+				"stylesheets/sass/_project.intro.sass"
+			],
+			[
+				"project",
+				"stylesheets/sass/project.sass"
+			],
+			[
+				"home",
+				"stylesheets/sass/home.sass"
+			],
+			[
+				"todo",
+				"todo.txt"
+			],
+			[
+				"tracking",
+				"projects/tracking-omalley.jade"
+			],
+			[
+				"fredd",
+				"projects/freddie-45.jade"
+			],
+			[
+				"generaltoph",
+				"stylesheets/sass/_general.tophat.sass"
+			],
+			[
+				"logo",
+				"stylesheets/sass/_general.logo.sass"
+			],
+			[
+				"general",
+				"stylesheets/sass/_general.sass"
+			],
+			[
+				"animat",
+				"stylesheets/sass/_general.animations.sass"
+			],
+			[
+				"generaltopha",
+				"stylesheets/sass/_general.tophat.sass"
+			],
+			[
+				"project.intro",
+				"stylesheets/sass/_project.intro.sass"
+			],
+			[
+				"to",
+				"todo.txt"
+			],
+			[
+				"om",
+				"projects/tracking-omalley.jade"
+			],
+			[
+				"info",
+				"stylesheets/sass/_project.info.sass"
+			],
+			[
+				"font",
+				"stylesheets/fonts.css"
+			],
+			[
+				".jade",
+				"projects/tracking-omalley.jade"
+			],
+			[
+				"fred",
+				"projects/freddie-45.html"
+			],
+			[
+				"intro",
+				"stylesheets/sass/_project.intro.sass"
+			],
+			[
+				"mixins",
+				"stylesheets/sass/_mixins.sass"
+			],
+			[
+				"animations",
+				"stylesheets/sass/_general.animations.sass"
+			],
+			[
+				"nav",
+				"stylesheets/sass/_general.nav.sass"
+			],
+			[
+				"j",
+				"~/Documents/Sun/projects/fitness-heroes/index.jade"
+			],
+			[
+				"s",
+				"~/Documents/Sun/projects/fitness-heroes/stylesheets/sass/style.sass"
+			],
+			[
+				"sas",
+				"~/Documents/Sun/projects/fitness-heroes/stylesheets/sass/style.sass"
+			],
+			[
+				"i",
+				"~/Documents/Sun/projects/cop-watch/court-rulings/index.jade"
+			],
+			[
+				"map",
+				"~/Documents/Sun/projects/cop-watch/court-rulings/includes/map.html"
+			],
+			[
+				"mao",
+				"~/Documents/Sun/projects/cop-watch/court-rulings/includes/omniture.html"
+			],
+			[
+				"sass",
+				"stylesheets/sass/style.sass"
+			],
+			[
+				"scrip",
+				"scripts/javascript.js"
+			],
+			[
+				"index.html",
+				"~/Documents/Web Projects/career-peer/circles/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sun/projects/omalley/omalley.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

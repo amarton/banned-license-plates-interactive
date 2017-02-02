@@ -1,0 +1,101 @@
+doctype html
+//if lt IE 7
+	<html class="no-js lt-ie9 lt-ie8 lt-ie7">
+//if IE 7
+	<html class="no-js lt-ie9 lt-ie8">
+//if IE 8
+	<html class="no-js lt-ie9">
+
+html(class="no-js", lang="en")
+
+	head
+
+		//Basic page needs
+		meta(charset="utf-8")
+		title Banned License Plates - The Baltimore Sun
+		meta(name="description", content="The MVA has banned thousands of phrases for vanity plates.")
+		meta(name="author", content="The Baltimore Sun")
+
+		//Mobile Specific Metas
+		meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1")
+
+		//CSS
+		link(rel="stylesheet", type="text/css", href="stylesheets/style.css")
+
+		//Fonts
+		link(rel="stylesheet", type="text/css", href="http://fonts.googleapis.com/css?family=Lato:300,400,700")
+
+		//Facebook Stuff
+		meta(property="og:title", content="Banned license plates")
+		meta(property="og:url", content="http://data.baltimoresun.com/banned-license-plates/")
+		meta(property="og:image", content="http://data.baltimoresun.com/banned-license-plates/images/social.jpg")
+		meta(property="og:site_name", content="The Baltimore Sun")
+		meta(property="og:description", content="The MVA has banned thousands of phrases for vanity plates.")
+		meta(property="fb:app_id", content="310302989040998")
+
+		//Twitter Stuff
+		meta(name="twitter:card", content="summary")
+		meta(name="twitter:site", content="@baltimoresun")
+		meta(name="twitter:creator", content="")
+		meta(name="twitter:title", content="Banned license plates")
+		meta(name="twitter:description", content="The MVA has banned thousands of phrases for vanity plates.")
+		meta(name="twitter:image", content="http://data.baltimoresun.com/banned-license-plates/images/social.jpg")
+		meta(name="twitter:domain", content="baltimoresun.com")
+
+		//BS Ad Code
+		include includes/ad-for-header.html
+
+	body
+		#tophat
+			#logo
+				a(href="http://www.baltimoresun.com")
+					img(src="images/baltimore-sun-logo.png" border="0")
+			.tophat-share-tools
+				span.icon-facebook
+				span.icon-twitter
+		.container
+
+			header.lp-header
+				.lp-header__title-1 MARYLAND'S BANNED
+				.lp-header__title-2 LICENSE<img src="images/emblem.png" />PLATES
+				.lp-header__chatter The MVA routinely rejects Maryland "vanity plate" requests that are deemed "objectionable." Browse examples from the administration's <a href="http://www.baltimoresun.com/news/maryland/bal-about-maryland-s-objectionable-plate-list-20150828-story.html"> "Objectionable Plate List,"</a> which includes more than 4,650 entries.
+
+			.lp-plate
+				.lp-plate__image
+					img(src="images/license-plate.jpg")
+				.lp-plate__content
+					.lp-plate__letters
+						-for (var i = 1; i <=7; i++)
+							.lp-plate__letter #{i}
+				.lp-plate__arrows
+					.lp-plate__arrow.lp-plate__arrow--left
+						span.icon-arrow-left3					
+					.lp-plate__arrow.lp-plate__arrow--right
+						span.icon-arrow-right3
+
+			.lp-social-tools
+				.lp-social-tools__label Share this plate on:
+				.lp-social-tool.lp-social-tool--facebook <span class="icon-facebook"></span> Facebook
+				.lp-social-tool.lp-social-tool--twitter <span class="icon-twitter"></span> Twitter
+				.lp-social-tool.lp-social-tool--full
+					a(href="https://github.com/baltimore-sun-data/banned-license-plates.git" target="_blank") See Full List
+
+		#leaderboard
+			include includes/ad-for-body.html
+
+		footer
+			ul
+				li.label Source
+				li Maryland Department of Motor Vehicles
+			ul
+				li.label Design &amp; Development
+				li Emma Patti Harris
+				li Greg Kohn
+			#footer-logo
+				img(src="images/baltimore-sun-logo-white.png")						
+
+		//Omniture Code
+		include includes/omniture.html
+
+		//Javascript
+		script(src="scripts/min/javascript-min.js")
