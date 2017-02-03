@@ -137,14 +137,18 @@ body
 
 
 .lp-social-tools
+	width: 300px
+	margin: 0 auto
 	text-align: center
 	&__label
 		margin-bottom: 10px
 		font-weight: 400
 		color: #666
 
-.lp-social-tool
+.lp-social-tool	
 	display: inline-block
+	width: 49%
+	margin-bottom: 15px
 	padding: 10px 20px
 	color: white
 	font-weight: 400
@@ -157,13 +161,31 @@ body
 		position: relative
 		bottom: 2px
 	&--facebook	
+		float: left
 		background-color: $facebook
 	&--twitter
+		float: right
 		background-color: $twitter
-
-
-
-
+	&--full
+		width: 100%
+		background-color: darken($accent, 10%)
+		clear: both
+		position: relative
+		&:after
+			content: '(Some entries may contain offensive material)'
+			position: absolute
+			top: 100%
+			left: 0
+			width: 100%
+			margin-top: 5px
+			text-align: center
+			font-size: 10px
+			color: #555
+			cursor: default
+	a
+		display: block
+		text-decoration: none
+		color: white
 
 /* Tophat */
 

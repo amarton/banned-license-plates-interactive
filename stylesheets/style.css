@@ -603,6 +603,8 @@ body {
         width: 35px; } }
 
 .lp-social-tools {
+  width: 300px;
+  margin: 0 auto;
   text-align: center; }
   .lp-social-tools__label {
     margin-bottom: 10px;
@@ -611,6 +613,8 @@ body {
 
 .lp-social-tool {
   display: inline-block;
+  width: 49%;
+  margin-bottom: 15px;
   padding: 10px 20px;
   color: white;
   font-weight: 400;
@@ -623,9 +627,31 @@ body {
     position: relative;
     bottom: 2px; }
   .lp-social-tool--facebook {
+    float: left;
     background-color: #3b5998; }
   .lp-social-tool--twitter {
+    float: right;
     background-color: #00aced; }
+  .lp-social-tool--full {
+    width: 100%;
+    background-color: #720101;
+    clear: both;
+    position: relative; }
+    .lp-social-tool--full:after {
+      content: '(Some entries may contain offensive material)';
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      margin-top: 5px;
+      text-align: center;
+      font-size: 10px;
+      color: #555;
+      cursor: default; }
+  .lp-social-tool a {
+    display: block;
+    text-decoration: none;
+    color: white; }
 
 /* Tophat */
 #tophat {
